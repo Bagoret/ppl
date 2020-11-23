@@ -1,0 +1,208 @@
+{
+  "ques": [
+    "Which area could be crossed with certain restrictions?",
+    "Where can the type of restriction for a restricted airspace be found?",
+    "What is the status of the rules and procedures created by the EASA?",
+    "Which validity does the Certificate of Airworthiness have?",
+    "What is the meaning of the abbreviation ARC?",
+    "The Certificate of Airworthiness is issued by the state...",
+    "A pilot license issued in accordance with ICAO Annex 1 is valid in... ",
+    "What is the subject of ICAO Annex 1?",
+    "What is the period of validity of a private pilot license (PPL)?",
+    "What is the minimum age to obtain a private pilot license?",
+    "What are the minimum requirements among others to acquire a rating for VFR night flights?",
+    "The validity of a medical examination certificate class 2 for a 62 years old pilot is...",
+    "In which way is a SEP (land) rating renewed if you do not meet the required flight time? ",
+    "The possession of a european PPL(A) entitles the holder to... ",
+    "What is the minimum age to start a private pilot training at a flight school?",
+    "What is the meaning of the abbreviation SERA?",
+    "What is the meaning of the abbreviation TRA?",
+    "What has to be considered when entering an RMZ?",
+    "What condition has to be met during a Special VFR flight?",
+    "What has to be done before entering a TMZ?",
+    "What is the meaning of an area marked as TMZ?",
+    "What is the meaning of the abbreviation IFR?",
+    "A flight is called a visual flight, if the... ",
+    "What is the meaning of the abbreviation VMC?",
+    "Two engine-driven aircraft are flying on crossing courses at the same altitude. Which one has to divert?"
+  ],
+  "options": [
+    [
+      "No-fly zone",
+      "Restricted area",
+      "Prohibited area",
+      "Dangerous area"
+    ],
+    [
+      "NOTAM",
+      "AIC",
+      "ICAO chart 1:500000",
+      "AIP"
+    ],
+    [
+      "They have the same status as ICAO Annexes",
+      "Only after a ratification by individual EU member states they are legally binding",
+      "They are not legally binding, they only serve as a guide",
+      "They are part of the EU regulation and legally binding to all EU member states"
+    ],
+    [
+      "6 months",
+      "12 years",
+      "Unlimited",
+      "12 months"
+    ],
+    [
+      "Airworthiness Recurring Control",
+      "Airspace Rulemaking Committee",
+      "Airspace Restriction Criteria",
+      "Airworthiness Review Certificate"
+    ],
+    [
+      "in which the aircraft is registered.",
+      "of the residence of the owner.",
+      "in which the aircraft is constructed.",
+      "in which the airworthiness review is done."
+    ],
+    [
+      "those countries that have accepted this license on application.",
+      "the country where the license was issued.",
+      "all ICAO countries.",
+      "the country where the license was acquired."
+    ],
+    [
+      "Air traffic services",
+      "Flight crew licensing",
+      "Rules of the air",
+      "Operation of aircraft"
+],
+[ 
+  "Unlimited",
+  "24 months",
+  "48 months",
+  "60 months"
+],
+[
+  "17 years",
+  "21 years",
+  "16 years",
+  "18 years"
+],
+[
+  "At least 10 additional flight hours at night, three of them with a flight instructor with at least 1 hour cross-country flight plus 5 solo take-offs and full-stop landings",
+"At least 5 additional flight hours at night, four of them with a flight instructor with at least 1 hour cross-country flight plus 5 solo take-offs and full-stop landings",
+"At least 5 additional flight hours at night, three of them with a flight instructor with at least 1 hour cross-country flight plus 5 solo take-offs and full-stop landing",
+"At least 5 additional flight hours at night, three of them with a flight instructor with at least 1 hour cross-country flight plus 10 solo take-offs and full-stop landings"
+],
+[
+  "60 Months.",
+  "48 Months.",
+  "24 Months.",
+  "12 Months."
+],
+[
+  "A proficiency check with an examiner",
+  "According to the flight experience there have to be several training flights under supervision of an ATO",
+  "The ATO can renew the rating after a training flight with a flight instructor",
+  "The required flight experience has to be accumulated under supervision of a flight instructor"
+],
+[
+  "act as pilot on a commercial flight when there are at most 4 people on board.",
+  "act as pilot in commercial and non-commercial flights with single engine aircraft.",
+"act as PIC, and only for flights in aircraft with a MTOW of maximum 2000 kg a compensation may be obtained.",
+"act as PIC on non-commercial flights without compensation as well as to receive compensation as a flight instrucor."
+],
+[
+  "16 years",
+  "17 years",
+  "21 years",
+  "18 years"
+],
+[
+  "Selective Radar Altimeter",
+  "Standardized European Rules of the Air",
+  "Specialized Radar Approach",
+  "Standard European Routes of the Air"
+],
+[
+  "Temporary Reserved Airspace",
+  "Temporary Radar Routing Area",
+  "Transponder Area",
+  "Terminal Area"
+],
+[
+  "To permanently monitor the radio and if possible to establish radio contact",
+  "To obtain a clearance from the local aviation authority",
+  "The transponder has to be switched on Mode C and squawk 7000",
+  "To obtain a clearance to enter this area"
+],
+[
+  "Visual reference to the terrain",
+  "Speed not above 115 kt IAS",
+  "At least 500 m ground visibilty",
+  "A minimum distance to clouds of 2000 m"
+],
+[
+  "Switch on the transponder and activate mode A and C or mode S",
+  "Request a clearance before entering",
+  "Switch on the transponder, activate mode A, and squawk IDENT",
+  "File a flight plan before the flight"
+],
+[
+  "Transportation Management Zone",
+  "Touring Motorglider Zone",
+  "Traffic Management Zone",
+  "Transponder Mandatory Zone"
+],
+[
+  "Instrument Flight Rules",
+  "Instrument Meteorological Conditions",
+  "Bad Weather Flight Rules",
+  "Commercial Flight Rules"
+],
+[
+  "visibility in flight is more than 8 km.",
+  "flight is conducted under visual flight rules.",
+  "visibility in flight is more than 5 km.",
+  "flight is conducted in visual meteorological conditions."
+],
+[
+  "Instrument flight conditions",
+  "Variable meteorological conditions",
+  "Visual meteorological conditions",
+  "Visual flight rules"
+],
+[
+  "The lighter one has to climb",
+  "Both have to divert to the right",
+  "The heavier one has to climb",
+  "Both have to divert to the left"
+]
+],
+  "ans": [
+    2,
+    4,
+    4,
+    3,
+    4,
+    1,
+    3,
+    2,
+    1,
+    1,
+    3,
+    4,
+    1,
+    4,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    4,
+    1,
+    2,
+    3,
+    2
+  ]
+}
